@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/salmanahmed-chd/profile-card/static/css/main.69545bdf.css",
+    "main.js": "/salmanahmed-chd/profile-card/static/js/main.3c6c5530.js",
+    "static/js/592.91eb5849.chunk.js": "/salmanahmed-chd/profile-card/static/js/592.91eb5849.chunk.js",
+    "index.html": "/salmanahmed-chd/profile-card/index.html",
+    "main.69545bdf.css.map": "/salmanahmed-chd/profile-card/static/css/main.69545bdf.css.map",
+    "main.3c6c5530.js.map": "/salmanahmed-chd/profile-card/static/js/main.3c6c5530.js.map",
+    "592.91eb5849.chunk.js.map": "/salmanahmed-chd/profile-card/static/js/592.91eb5849.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69545bdf.css",
+    "static/js/main.3c6c5530.js"
+  ]
+}
